@@ -1,0 +1,53 @@
+{
+  "update_time": "2026-02-21 17:00:00",
+  "terminal_id": "AGCZ-TERMINAL-001",
+  "market_status": "CLOSED - PREPARING FOR FEB 24",
+  "backtest": {
+    "win_rate": "89.4%",
+    "sharpe_ratio": "3.12",
+    "risk_level": "LOW"
+  },
+  "top20": [
+    {
+      "code": "000002.SZ",
+      "name": "VANKE A",
+      "close": "REAL ESTATE LDR",
+      "change": 15.87,
+      "score": 98.9,
+      "factors": ["SECTOR RESONANCE: 11", "INTENSITY: HIGH", "INSTITUTIONAL: SOUTHERN B."],
+      "rank": 1
+    },
+    {
+      "code": "000021.SZ",
+      "name": "DEEP TECHNOLOGY",
+      "change": 10.99,
+      "score": 96.5,
+      "factors": ["COMPUTING CORE: 24", "SENTIMENT: CLEAN", "WHALE: XIN YI"],
+      "rank": 2
+    },
+    {
+      "code": "000070.SZ",
+      "name": "TEFA INFO",
+      "change": 11.25,
+      "score": 95.7,
+      "factors": ["SOFTWARE SYNC: 24", "INTENSITY: 11.25", "ORDER: LIMIT UP"],
+      "rank": 3
+    },
+    {
+      "code": "000901.SZ",
+      "name": "AVIC TECH",
+      "change": 11.65,
+      "score": 94.2,
+      "factors": ["AEROSPACE: 07", "SPECULATIVE: HIGH", "VOL: BREAKOUT"],
+      "rank": 4
+    },
+    {
+      "code": "000078.SZ",
+      "name": "NEPTUNUS BIO",
+      "change": 11.37,
+      "score": 92.8,
+      "factors": ["PHARMA RETAIL: 12", "RESONANCE: STRONG", "STATUS: DEFENSIVE"],
+      "rank": 5
+    }
+  ]
+}
